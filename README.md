@@ -60,8 +60,6 @@ weekly breakdowns of how movies, shows, and cultural moments mirror brand strate
 > the most interesting brands right now aren't the ones with the biggest media buys.  
 > they're the ones whose internal documents leak well. **culture as creative.** 🌀
 
-<!-- swap monthly. one weird marketing observation. keep it short and spicy. -->
-
 <br>
 
 ![currently](./assets/section-04-currently.svg)
@@ -72,9 +70,7 @@ weekly breakdowns of how movies, shows, and cultural moments mirror brand strate
 🎧 listening    — Indie Pop
 ☕ drinking     — chai (always, forever)
 🧠 thinking     — about POP CULTURE
-
-
-<!-- update monthly. it's the human texture. -->
+```
 
 <br>
 
@@ -99,11 +95,9 @@ restaurant brand strategy and competitive analysis for hospitality group.
 
 ![find me elsewhere](./assets/section-06-elsewhere.svg)
 
-```
-✨ linkedin     →  www.linkedin.com/in/iyoushe
-✨ email        →  ayushiannu@gmail.com
-✨ substack     →  (coming soon, maybe)
-```
+✨ linkedin → [linkedin.com/in/iyoushe](https://www.linkedin.com/in/iyoushe)  
+✨ email → [ayushiannu@gmail.com](mailto:ayushiannu@gmail.com)  
+✨ substack → (coming soon, maybe)
 
 <br>
 
