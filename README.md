@@ -67,13 +67,12 @@ weekly breakdowns of how movies, shows, and cultural moments mirror brand strate
 ![currently](./assets/section-04-currently.svg)
 
 ```
-📖 reading      — TBD
-📺 watching     — TBD
-🎧 listening    — TBD
+📖 reading      — Anxious People
+📺 watching     — 2 Broke Girls
+🎧 listening    — Indie Pop
 ☕ drinking     — chai (always, forever)
-🧠 thinking     — about [your current obsession]
-🚀 shipping     — [whatever's in flight]
-```
+🧠 thinking     — about POP CULTURE
+
 
 <!-- update monthly. it's the human texture. -->
 
@@ -101,9 +100,8 @@ restaurant brand strategy and competitive analysis for hospitality group.
 ![find me elsewhere](./assets/section-06-elsewhere.svg)
 
 ```
-✨ linkedin     →  linkedin.com/in/YOUR-HANDLE
-✨ email        →  YOUR-EMAIL
-✨ the series   →  linkedin.com/in/YOUR-HANDLE/recent-activity
+✨ linkedin     →  www.linkedin.com/in/iyoushe
+✨ email        →  ayushiannu@gmail.com
 ✨ substack     →  (coming soon, maybe)
 ```
 
