@@ -1,3 +1,4 @@
+![banner](https://capsule-render.vercel.app/api?type=waving&color=0:ff7eb3,100:ff758c&height=200&section=header&text=Ayushi%20Sharma&fontSize=40&fontAlignY=35&desc=ideas%20%7C%20culture%20%7C%20marketing&descAlignY=55)
 # Ayushi-Sharma
 My little corner of the internet for ideas, projects, and things i’m building
 # hi, i’m ayushi ✨
