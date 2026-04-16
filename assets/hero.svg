@@ -1,0 +1,63 @@
+<svg width="1280" height="500" viewBox="0 0 1280 500" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<style>
+.display { font-family: 'Impact', 'Arial Black', sans-serif; font-weight: 900; }
+.chunky { font-family: 'Arial Black', sans-serif; font-weight: 900; }
+</style>
+</defs>
+
+<rect width="1280" height="500" fill="#2E5BBA"/>
+
+<g transform="translate(640, 280)">
+<ellipse rx="900" ry="220" fill="none" stroke="#E63946" stroke-width="55"/>
+<ellipse rx="740" ry="180" fill="none" stroke="#2E5BBA" stroke-width="55"/>
+<ellipse rx="580" ry="140" fill="none" stroke="#E63946" stroke-width="55"/>
+<ellipse rx="420" ry="100" fill="none" stroke="#2E5BBA" stroke-width="55"/>
+<ellipse rx="260" ry="60" fill="none" stroke="#E63946" stroke-width="55"/>
+</g>
+
+<g fill="#FFFFFF">
+<polygon points="120,110 128,135 154,135 133,150 141,175 120,160 99,175 107,150 86,135 112,135"/>
+<polygon points="1140,170 1146,189 1166,189 1150,200 1156,219 1140,208 1124,219 1130,200 1114,189 1134,189"/>
+<polygon points="1020,400 1025,415 1041,415 1028,425 1033,440 1020,431 1007,440 1012,425 999,415 1015,415"/>
+<polygon points="180,420 186,438 205,438 190,449 196,467 180,456 164,467 170,449 155,438 174,438"/>
+<polygon points="70,290 74,302 86,302 76,310 80,322 70,314 60,322 64,310 54,302 66,302"/>
+<polygon points="1200,330 1204,342 1216,342 1206,350 1210,362 1200,354 1190,362 1194,350 1184,342 1196,342"/>
+<polygon points="900,90 905,103 919,103 908,112 912,125 900,117 888,125 892,112 881,103 895,103"/>
+<polygon points="380,80 384,92 396,92 386,100 390,112 380,104 370,112 374,100 364,92 376,92"/>
+</g>
+
+<g transform="translate(640, 130)">
+<text x="0" y="0" class="display" font-size="110" fill="#FFD93D" stroke="#1A1A1A" stroke-width="4" text-anchor="middle" transform="rotate(-3)" letter-spacing="2">AYUSHI!</text>
+</g>
+
+<g transform="translate(640, 340)">
+<rect x="-75" y="-40" width="150" height="160" fill="#FFD93D" stroke="#1A1A1A" stroke-width="4"/>
+<polygon points="-75,120 75,120 65,142 -65,142" fill="#FFD93D" stroke="#1A1A1A" stroke-width="4"/>
+
+<ellipse cx="0" cy="-40" rx="115" ry="28" fill="#E63946" stroke="#1A1A1A" stroke-width="4"/>
+<ellipse cx="0" cy="-48" rx="100" ry="20" fill="#E63946" stroke="#1A1A1A" stroke-width="4"/>
+
+<ellipse cx="0" cy="-55" rx="38" ry="30" fill="#FFFFFF" stroke="#1A1A1A" stroke-width="4"/>
+<ellipse cx="0" cy="-55" rx="28" ry="26" fill="#D946EF"/>
+<circle cx="4" cy="-55" r="12" fill="#1A1A1A"/>
+<circle cx="8" cy="-59" r="4" fill="#FFFFFF"/>
+
+<g transform="translate(0, 65)">
+<circle cx="-22" cy="-7" r="7" fill="#F9A8D4" stroke="#1A1A1A" stroke-width="2.5"/>
+<path d="M -22 0 L -26 20 L -32 33 M -22 0 L -17 20 L -14 33 M -26 7 L -36 11 M -17 7 L -7 3" stroke="#F9A8D4" stroke-width="4" fill="none" stroke-linecap="round"/>
+
+<circle cx="22" cy="-7" r="7" fill="#F9A8D4" stroke="#1A1A1A" stroke-width="2.5"/>
+<path d="M 22 0 L 26 20 L 32 33 M 22 0 L 17 20 L 14 33 M 26 7 L 36 11 M 17 7 L 7 3" stroke="#F9A8D4" stroke-width="4" fill="none" stroke-linecap="round"/>
+
+<circle cx="0" cy="0" r="6" fill="#FFD93D" stroke="#1A1A1A" stroke-width="2.5"/>
+<line x1="-12" y1="-12" x2="-18" y2="-18" stroke="#1A1A1A" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="12" y1="-12" x2="18" y2="-18" stroke="#1A1A1A" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="0" y1="-15" x2="0" y2="-22" stroke="#1A1A1A" stroke-width="2.5" stroke-linecap="round"/>
+</g>
+</g>
+
+<g transform="translate(640, 475)">
+<text x="0" y="0" class="chunky" font-size="20" fill="#FFFFFF" text-anchor="middle" letter-spacing="5">★ MARKETER · BUILDER · WEIRD IDEAS ★</text>
+</g>
+</svg>
